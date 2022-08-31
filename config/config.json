@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe1dbe55dca85b075ccccfdbb8ce20b13414e4fff",
+  "SCAN_LINK": "https://explorer.dogechain.dog/address/0xe41ddFd0b8B57De62CdC7451f5D614ee6c421205",
+  "NETWORK": {
+    "NAME": "Dogechain",
+    "SYMBOL": "$DOGE",
+    "ID": 2000
+  },
+  "NFT_NAME": "DogeApeYachtClub",
+  "SYMBOL": "DKC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 40000000000000000000,
+  "DISPLAY_COST": 40,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}

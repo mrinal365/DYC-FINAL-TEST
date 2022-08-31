@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a80d5022.chunk.css",
+    "main.js": "/static/js/main.efb0ab41.chunk.js",
+    "main.js.map": "/static/js/main.efb0ab41.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.978eff7c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.978eff7c.js.map",
+    "static/js/2.09afff5e.chunk.js": "/static/js/2.09afff5e.chunk.js",
+    "static/js/2.09afff5e.chunk.js.map": "/static/js/2.09afff5e.chunk.js.map",
+    "static/js/3.988363cf.chunk.js": "/static/js/3.988363cf.chunk.js",
+    "static/js/3.988363cf.chunk.js.map": "/static/js/3.988363cf.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a80d5022.chunk.css.map": "/static/css/main.a80d5022.chunk.css.map",
+    "static/js/2.09afff5e.chunk.js.LICENSE.txt": "/static/js/2.09afff5e.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/static/media/font.617a0a92.woff",
+    "static/media/coin-flip-animation.e792c67c.gif": "/static/media/coin-flip-animation.e792c67c.gif",
+    "static/media/coin-flip.b763d230.png": "/static/media/coin-flip.b763d230.png",
+    "static/media/logo-dayc.bb644a79.png": "/static/media/logo-dayc.bb644a79.png",
+    "static/media/oldlogo.4967741c.png": "/static/media/oldlogo.4967741c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.978eff7c.js",
+    "static/js/2.09afff5e.chunk.js",
+    "static/css/main.a80d5022.chunk.css",
+    "static/js/main.efb0ab41.chunk.js"
+  ]
+}
